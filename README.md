@@ -1,5 +1,10 @@
-- Hi, I'm Supra (not a made-up name)
-- I like black because it is the only color I can see with my eyes closed 
+- Hi, I'm Bhanu
+- I'm interested in 
+- Deep Learning 
+- Machine Vision
+- Vision Language Tasks
+- Predictive Modelling 
+- and a ton of other things
 
 <!---
 SUPRA-ATKINSON/SUPRA-ATKINSON is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
