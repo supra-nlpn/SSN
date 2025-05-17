@@ -1,7 +1,10 @@
-- Deep Learning 
-- Machine Vision
-- Vision Language Tasks
-- Predictive Modelling 
+Passionate about building impactful solutions and useful tools at the intersection of 
+- Web Technologies
+- Distributed Systems
+- Computer Architecture
+- Data Engineering
+- Artificial Intelligence. 
+
 
 
 <!---
